@@ -16,3 +16,6 @@ GitHub Actions збирає debug APK після push у main або вручн�
 
 ## Ще не реалізовано
 Токени ERC-20/BEP-20/SPL, історія транзакцій, push-сповіщення та графіки. Публічні RPC можуть мати ліміти або тимчасово бути недоступними.
+
+
+Build workflow trigger verification: repository setup committed on 2026-11-26.
